@@ -1,4 +1,4 @@
-####Lecture revision note
+#### Lecture revision points
 
 * Evolution of human vision
 * History of Computer vision.
